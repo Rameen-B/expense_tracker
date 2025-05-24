@@ -1,7 +1,7 @@
 # expense_tracker
 
 A new Flutter project.
-
+Cross-platform project that runs on: Windows, Android, IOS, MacOS, Linux, Web browsers.
 An Expense Tracker app, that achieves:
 1. Shows a list of expenses which the user has added.
 2. Shows a bar-chart which visualize the categories expenses list as columns.
