@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+An Expense Tracker app, that achieves:
+1. Shows a list of expenses which the user has added.
+2. Shows a bar-chart which visualize the categories expenses list as columns.
+3. Enable the user to add a new expense using a popup windows from bottom of the screen(ModalBottomSheet).
+4. When adding an expense the user specifies: title, amount, date, category.
+5. The user can remove the expense by swiping sideways the undesired item.
